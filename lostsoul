@@ -44,7 +44,7 @@ local finished = false
 
 task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/somethingsimade/CurrentAngleV4/refs/heads/main/currentanglev2.5.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Toon1490/lostsoul/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toon1490/scripts/refs/heads/main/lostsoul"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toon1490/scripts/refs/heads/main/antivoid"))()
 end)
 
